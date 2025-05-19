@@ -4,6 +4,4 @@ This repo is intended to modify the existing fooof analysis of the 1/f exponent 
 
 # Dependencies
 
-fooof-vlkuzun is written using Python 3.6> and requires various packages:
-
-- matplotlib 
+fooof-vlkuzun is written using Python 3.6> and necessary packages can be found in requirements.txt
