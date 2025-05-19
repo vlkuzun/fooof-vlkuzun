@@ -1,0 +1,6 @@
+neurodsp
+mne
+numpy<1.25.0
+matplotlib
+pandas
+h5py
